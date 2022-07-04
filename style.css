@@ -47,7 +47,7 @@ body{
     position: fixed;
     width: 280px;
     height: 582px;
-    background-color: rgb(229, 245, 180);
+    background-color: rgb(255, 255, 255);
 }
 .middle{
     padding: 10px;
@@ -55,7 +55,7 @@ body{
     position: relative;
     width: 788px;
     height: 1000px;
-    background-color: rgb(254, 255, 251);
+    background-color: rgb(255, 255, 255);
 }
 .mid-divs{
     display: grid;
@@ -111,7 +111,7 @@ body{
     margin-left: 1070px;
     width: 280px;
     height: 582px;
-    background-color: rgb(232, 248, 185);
+    background-color: rgb(255, 255, 255);
 }
 h3{
     color: red;
