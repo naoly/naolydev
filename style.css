@@ -60,11 +60,14 @@ body{
 .mid-divs{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 10px;
+    grid-gap: 5px;
+    padding: 5px;
     position: absolute;
-    width: 770px;
-    height: 100px;
+    width: 765px;
+    height: 150px;
     background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border:1px solid rgb(141, 109, 109);
 }
 .d1{
     text-align: center;
