@@ -62,7 +62,7 @@ body{
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 10px;
     position: absolute;
-    width: 300px;
+    width: 600px;
     height: 150px;
     background-color: rgb(255, 255, 255);
 }
